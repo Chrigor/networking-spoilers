@@ -1,9 +1,7 @@
+import Routes from 'routes'
+
 function App() {
-  return (
-    <div>
-      <span>Hellou</span>
-    </div>
-  )
+  return <Routes />
 }
 
 export default App
